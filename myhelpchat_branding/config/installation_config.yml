@@ -1,0 +1,29 @@
+branding:
+  - name: INSTALLATION_NAME
+    value: 'MyHelpChat'
+    display_title: 'Installation Name'
+    description: 'The installation wide name that would be used in the dashboard, title etc.'
+  - name: LOGO_THUMBNAIL
+    value: 'engine/assets/images/myhelpchat_branding/logo_thumbnail.png'
+    display_title: 'Logo Thumbnail'
+    description: 'Thumbnail logo for the installation'
+  - name: LOGO
+    value: 'engine/assets/images/myhelpchat_branding/logo.png'
+    display_title: 'Logo'
+    description: 'Logo for the installation'
+  - name: LOGO_DARK
+    value: 'engine/assets/images/myhelpchat_branding/logo_dark.png'
+    display_title: 'Logo Dark'
+    description: 'Dark logo for the installation'
+  - name: BRAND_URL
+    value: 'https://myhelp.chat'
+    display_title: 'Brand URL'
+    description: 'URL for the brand'
+  - name: WIDGET_BRAND_URL
+    value: 'https://myhelp.chat'
+    display_title: 'Widget Brand URL'
+    description: 'URL for the brand in the widget'
+  - name: BRAND_NAME
+    value: 'MyHelpChat'
+    display_title: 'Brand Name'
+    description: 'Name of the brand'

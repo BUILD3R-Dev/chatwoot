@@ -243,3 +243,5 @@ group :development, :test do
   gem 'spring'
   gem 'spring-watcher-listen'
 end
+
+gem 'myhelpchat_branding', path: 'myhelpchat_branding'
